@@ -1,7 +1,6 @@
-# 🚀 Network Intrusion Detection using Machine Learning & Deep Learning
-
+# 🚀 Network Intrusion Detection 
 ## 📌 Overview
-This project focuses on detecting network intrusions using both traditional Machine Learning models and Deep Learning approaches.  
+This project focuses on detecting network intrusions .  
 The goal is to compare performance, accuracy, and training behavior across different models.
 
 ---
